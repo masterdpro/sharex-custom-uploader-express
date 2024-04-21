@@ -24,5 +24,6 @@ node .
 
 1. Open ShareX (I know, weird step)
 2. Click on **Destionations** and then **Custom uploader settings**
+
 ![sharex](https://discords.ca/api/image/s7lv0u8.png)
 
