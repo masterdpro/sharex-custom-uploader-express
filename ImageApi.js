@@ -24,8 +24,6 @@ app.use(fileUpload());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-// Route to handle GET request for downloading an image
-
 //Route to handle ShareX uploads
 app.post("/upload", (req, res) => {
   if (req.body.secret) {
