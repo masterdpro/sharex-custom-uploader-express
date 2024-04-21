@@ -43,6 +43,5 @@ It should look like this...
 
 You can test it by clicking on the test button in the left down corner.
 
-
-
+And it should be ready to go !
 
