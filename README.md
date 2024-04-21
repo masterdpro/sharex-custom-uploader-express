@@ -1,2 +1,5 @@
-# sharex-custom-uploader-express
-A custom uploader for shareX made with Express and love
+# How to use it
+Firstly, clone the repository
+```
+git clone https://github.com/masterdpro/sharex-custom-uploader-express
+```
