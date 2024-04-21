@@ -7,6 +7,8 @@ const secret_key = "YourSecretKey"; // The beautiful private key
 const sharexdir = "image/"; // Your folder
 const domain_url = "https://your.domain.name/"; // Your domain name
 const lengthofstring = 7;
+const port = 3000;
+
 
 function randomString(length) {
   const keys = [...Array(10).keys()]
