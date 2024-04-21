@@ -27,3 +27,19 @@ node .
 
 ![sharex](https://discords.ca/api/image/s7lv0u8.png)
 
+3. In the left upper corner, click on **New**
+
+![sharexnew](https://discords.ca/api/image/m2lyny1.png)
+
+4. Change the name for whatever you want, it doesn't matter, set destination type to **image uploader**
+5. Set the method to **post** and inster the Url to your API (the one that we made earlier). and add /upload at the end
+6. In the body part, add a data called **secret**, with the value of your choice, need to be the same as the one you put in the code, in our case **YourSecretKey**
+7. Finally, For the **File form name**, put **sharex**.
+
+It should look like this...
+
+![sharexconfig](https://discords.ca/api/image/nluuura.png)
+
+
+
+
