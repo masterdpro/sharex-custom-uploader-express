@@ -1,4 +1,5 @@
 # How to use it
+If you have any issues, you can join my discord and ask for help https://discord.gg/bfS3yuCB8Z
 
 ## Code side
 Firstly, clone the repository
@@ -39,6 +40,8 @@ node .
 It should look like this...
 
 ![sharexconfig](https://discords.ca/api/image/nluuura.png)
+
+You can test it by clicking on the test button in the left down corner.
 
 
 
